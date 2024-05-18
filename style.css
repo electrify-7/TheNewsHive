@@ -92,6 +92,13 @@ body{
         }
     }
 
+        @media (max-height: 758px) {
+        .content{
+            height: 598px;
+        }
+    }
+
+
     
 }
 
